@@ -36,7 +36,7 @@ int main()
             {
                 if(starCounter == (rowCounter - 1))
                 {
-                    printf("5 ");
+                    printf("%d ", row);
                 }
                 else
                 {
